@@ -11,7 +11,7 @@ Contributed by Ge-Peng Ji, Deng-Ping Fan.
 
 ## Update: 2020-08-19
 
-## Foreign Scholars
+## Foreign Researchers
 
 - [Christof Koch](https://scholar.google.com/citations?user=JYt9T_sAAAAJ&hl=en&oi=ao)
     - Chief Scientist and President
