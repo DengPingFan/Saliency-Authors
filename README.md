@@ -1,9 +1,9 @@
 # Saliency-Scholar
-This repo include the laboratory studying in visual attention and saliency detection.
+This repo includes the laboratory studying visual attention and saliency detection.
 
 1. This is a collection of attention/saliency-based AI research papers and datasets.
 
-2. If you have relevant scholar to recommend or any suggestions, please feel free to contact us.
+2. If you have any relevant scholars to recommend or any suggestions, please feel free to contact us.
 
 Contributed by Ge-Peng Ji, Deng-Ping Fan.
 
