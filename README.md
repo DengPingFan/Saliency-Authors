@@ -19,6 +19,26 @@ Contributed by Ge-Peng Ji, Deng-Ping Fan.
 - [Ali Borji](https://scholar.google.com/citations?user=7jTNT1IAAAAJ&hl=en&oi=ao)
     - Markable.AI
     - 10083 citations
+    
+- [Lihi Zelnik-Manor](https://scholar.google.com/citations?hl=zh-CN&user=E_ejWvYAAAAJ)
+    - Homapage: http://webee.technion.ac.il/~lihi/
+    - Representative Works:
+        - Context-aware Saliency Detection. CVPR, 2020.
+        - How to evaluate foreground maps? CVPR, 2014.
+    - 8866 citations    
+    
+- [Federico Perazzi](https://scholar.google.com/citations?user=z-oSdPoAAAAJ&hl=zh-CN&oi=sra)
+    - Research Scientist in the On-Device AI team, at [Facebook AR/VR](https://research.fb.com/)
+    - [Homepage](http://fperazzi.github.io/)
+    - Representative Works:
+        - Saliency Filters: Contrast based filtering for salient region detection. CVPR, 2012.
+        - Visual saliency estimation for images and video. US Patent, 2015.
+        - Efficient Salient Foreground Detection for Images and Video using Fiedler Vectors. WICED, 2015.
+    - 3362 citations    
+    
+- [Niloy J. Mitra](https://scholar.google.com/citations?user=dPrZJWMAAAAJ&hl=zh-CN)
+    - Homapage: http://www.cs.ucl.ac.uk/staff/n.mitra/
+    - 15269 citations   
 
 - [Matthias Bethge](https://scholar.google.com/citations?user=0z0fNxUAAAAJ&hl=en&oi=ao)
     - Tübingen University & Amazon Scholar
@@ -27,15 +47,20 @@ Contributed by Ge-Peng Ji, Deng-Ping Fan.
         - Deep gaze i: Boosting saliency prediction with feature maps trained on imagenet. 2014.
     - 12921 citations
 
-- [Mahmoud Kalash](https://scholar.google.com/citations?hl=en&user=ei1UY8gAAAAJ)
-    - Computer Science MSc student, University of Manitoba
-    - [Homepage](http://www.cs.umanitoba.ca/~kalashm/)
-    - 105 citations
-
 - [Olivier Le Meur](https://scholar.google.com/citations?user=wl9Mj-8AAAAJ&hl=en)
     - Associate Professor, Univ Rennes, CNRS, IRISA, ESIR
     - Homepage: http://people.irisa.fr/Olivier.Le_Meur/
     - 4873 citations
+
+- [Neil Bruce](https://scholar.google.com/citations?hl=en&user=Gnezf-4AAAAJ&view_op=list_works&sortby=pubdate)
+    - School of Computer Science, University of Guelph
+    - Homepage: https://www.cs.ryerson.ca/~bruce/
+    - 3450 citations    
+
+- [Mahmoud Kalash](https://scholar.google.com/citations?hl=en&user=ei1UY8gAAAAJ)
+    - Computer Science MSc student, University of Manitoba
+    - [Homepage](http://www.cs.umanitoba.ca/~kalashm/)
+    - 105 citations
 
 - [Dr. Koteswar Rao Jerripothula](https://scholar.google.com/citations?user=QgTEe-gAAAAJ&hl=en&oi=ao)
     - Faculty@GEU [PhD @ NTU & BTech @ IIT Roorkee]
@@ -67,25 +92,9 @@ Contributed by Ge-Peng Ji, Deng-Ping Fan.
     - [Statistical Visual Computing Laboratory (SVCL) headed by Nuno Vasconcelos](http://www.svcl.ucsd.edu/)
     - 19222 citations
 
-- [Niloy J. Mitra](https://scholar.google.com/citations?user=dPrZJWMAAAAJ&hl=zh-CN)
-    - Homapage: http://www.cs.ucl.ac.uk/staff/n.mitra/
-    - 15269 citations
-
-- [Lihi Zelnik-Manor](https://scholar.google.com/citations?hl=zh-CN&user=E_ejWvYAAAAJ)
-    - Homapage: http://webee.technion.ac.il/~lihi/
-    - Representative Works:
-        - Context-aware Saliency Detection. CVPR, 2020.
-        - How to evaluate foreground maps? CVPR, 2014.
-    - 8866 citations
-
 - [Olivier DEFORGES](https://scholar.google.com/citations?user=c5DiiBUAAAAJ&hl=en)
     - Professeur, INSA de Rennes
     - Homepage: xxx
-
-- [Neil Bruce](https://scholar.google.com/citations?hl=en&user=Gnezf-4AAAAJ&view_op=list_works&sortby=pubdate)
-    - School of Computer Science, University of Guelph
-    - Homepage: https://www.cs.ryerson.ca/~bruce/
-    - 3450 citations
     
 - [Radhakrishna Achanta](https://scholar.google.com/citations?user=lc2HaZwAAAAJ&hl=zh-CN&oi=sra)
     - Senior Data Scientist at SDSC (https://datascience.ch/)
@@ -112,15 +121,6 @@ Contributed by Ge-Peng Ji, Deng-Ping Fan.
     - Chief Scientist and President
     - [Homepage](http://www.alleninstitute.org/our-institute/our-team/profiles/christof-koch/)
     - 129013 citations
-
-- [Federico Perazzi](https://scholar.google.com/citations?user=z-oSdPoAAAAJ&hl=zh-CN&oi=sra)
-    - Research Scientist in the On-Device AI team, at [Facebook AR/VR](https://research.fb.com/)
-    - [Homepage](http://fperazzi.github.io/)
-    - Representative Works:
-        - Saliency Filters: Contrast based filtering for salient region detection. CVPR, 2012.
-        - Visual saliency estimation for images and video. US Patent, 2015.
-        - Efficient Salient Foreground Detection for Images and Video using Fiedler Vectors. WICED, 2015.
-    - 3362 citations
 
 - [Jonathan Harel](https://scholar.google.com/citations?user=g1L7TtsAAAAJ&hl=zh-CN&oi=sra)
     - California Institute of Technology
