@@ -11,6 +11,11 @@ Contributed by Ge-Peng Ji, Deng-Ping Fan.
 
 ## Foreign Scholars
 
+- [Christof Koch](https://scholar.google.com/citations?user=JYt9T_sAAAAJ&hl=en&oi=ao)
+    - Chief Scientist and President
+    - [Homepage](http://www.alleninstitute.org/our-institute/our-team/profiles/christof-koch/)
+    - 129013 citations
+    
 - [Laurent Itti](https://scholar.google.com/citations?user=xhUvqK8AAAAJ&hl=en)
     - Professor of Computer Science, University of Southern California
     - Homepage: http://ilab.usc.edu/
@@ -116,11 +121,6 @@ Contributed by Ge-Peng Ji, Deng-Ping Fan.
  
 - [Aykut Erdem](https://web.cs.hacettepe.edu.tr/~aykut/)
     - Homepage: https://web.cs.hacettepe.edu.tr/~aykut/
-
-- [Christof Koch](https://scholar.google.com/citations?user=JYt9T_sAAAAJ&hl=en&oi=ao)
-    - Chief Scientist and President
-    - [Homepage](http://www.alleninstitute.org/our-institute/our-team/profiles/christof-koch/)
-    - 129013 citations
 
 - [Jonathan Harel](https://scholar.google.com/citations?user=g1L7TtsAAAAJ&hl=zh-CN&oi=sra)
     - California Institute of Technology
