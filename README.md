@@ -20,6 +20,11 @@ Contributed by Ge-Peng Ji, Deng-Ping Fan.
     - Markable.AI
     - 10083 citations
     
+- [Radhakrishna Achanta](https://scholar.google.com/citations?user=lc2HaZwAAAAJ&hl=zh-CN&oi=sra)
+    - Senior Data Scientist at SDSC (https://datascience.ch/)
+    - GitHub: https://github.com/achanta/
+    - 13235 citations    
+    
 - [Lihi Zelnik-Manor](https://scholar.google.com/citations?hl=zh-CN&user=E_ejWvYAAAAJ)
     - Homapage: http://webee.technion.ac.il/~lihi/
     - Representative Works:
@@ -95,11 +100,6 @@ Contributed by Ge-Peng Ji, Deng-Ping Fan.
 - [Olivier DEFORGES](https://scholar.google.com/citations?user=c5DiiBUAAAAJ&hl=en)
     - Professeur, INSA de Rennes
     - Homepage: xxx
-    
-- [Radhakrishna Achanta](https://scholar.google.com/citations?user=lc2HaZwAAAAJ&hl=zh-CN&oi=sra)
-    - Senior Data Scientist at SDSC (https://datascience.ch/)
-    - GitHub: https://github.com/achanta/
-    - 13235 citations
 
 - [Roberto Valentino](https://scholar.google.com/citations?user=-IZbHrQAAAAJ&hl=zh-CN&oi=ao)
     - University of Parma
