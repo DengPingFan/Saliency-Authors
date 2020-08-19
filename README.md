@@ -9,6 +9,8 @@ Contributed by Ge-Peng Ji, Deng-Ping Fan.
 
 > Note: This repo includes the laboratory studying in visual attention and saliency detection. Listed in no particular order
 
+## Update: 2020-08-19
+
 ## Foreign Scholars
 
 - [Christof Koch](https://scholar.google.com/citations?user=JYt9T_sAAAAJ&hl=en&oi=ao)
@@ -221,4 +223,6 @@ Contributed by Ge-Peng Ji, Deng-Ping Fan.
 
 - [Duc Tam Nguyen](https://scholar.google.com/citations?user=m8wQuf0AAAAJ&hl=zh-CN)
     - University of Freiburg
+    
+    continue updating...
 
