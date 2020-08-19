@@ -7,7 +7,7 @@ This repo includes the laboratory studying visual attention and saliency detecti
 
 Contributed by Ge-Peng Ji, Deng-Ping Fan.
 
-> Note: This repo include the laboratory studying in visual attention and saliency detection. Listed in no particular order
+> Note: This repo includes the laboratory studying in visual attention and saliency detection. Listed in no particular order
 
 ## Foreign Scholars
 
