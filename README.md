@@ -19,16 +19,27 @@ Contributed by Ge-Peng Ji, Deng-Ping Fan.
 - [Laurent Itti](https://scholar.google.com/citations?user=xhUvqK8AAAAJ&hl=en)
     - Professor of Computer Science, University of Southern California
     - Homepage: http://ilab.usc.edu/
-    - 43622 citations
-
-- [Ali Borji](https://scholar.google.com/citations?user=7jTNT1IAAAAJ&hl=en&oi=ao)
-    - Markable.AI
-    - 10083 citations
+    - 43622 citations 
+    
+- [Niloy J. Mitra](https://scholar.google.com/citations?user=dPrZJWMAAAAJ&hl=zh-CN)
+    - Homapage: http://www.cs.ucl.ac.uk/staff/n.mitra/
+    - 15269 citations   
     
 - [Radhakrishna Achanta](https://scholar.google.com/citations?user=lc2HaZwAAAAJ&hl=zh-CN&oi=sra)
     - Senior Data Scientist at SDSC (https://datascience.ch/)
     - GitHub: https://github.com/achanta/
-    - 13235 citations    
+    - 13235 citations      
+
+- [Matthias Bethge](https://scholar.google.com/citations?user=0z0fNxUAAAAJ&hl=en&oi=ao)
+    - Tübingen University & Amazon Scholar
+    - [Homepage](http://bethgelab.org)
+    - Representative Works:
+        - Deep gaze i: Boosting saliency prediction with feature maps trained on imagenet. 2014.
+    - 12921 citations    
+    
+- [Ali Borji](https://scholar.google.com/citations?user=7jTNT1IAAAAJ&hl=en&oi=ao)
+    - Markable.AI
+    - 10083 citations
     
 - [Lihi Zelnik-Manor](https://scholar.google.com/citations?hl=zh-CN&user=E_ejWvYAAAAJ)
     - Homapage: http://webee.technion.ac.il/~lihi/
@@ -45,17 +56,6 @@ Contributed by Ge-Peng Ji, Deng-Ping Fan.
         - Visual saliency estimation for images and video. US Patent, 2015.
         - Efficient Salient Foreground Detection for Images and Video using Fiedler Vectors. WICED, 2015.
     - 3362 citations    
-    
-- [Niloy J. Mitra](https://scholar.google.com/citations?user=dPrZJWMAAAAJ&hl=zh-CN)
-    - Homapage: http://www.cs.ucl.ac.uk/staff/n.mitra/
-    - 15269 citations   
-
-- [Matthias Bethge](https://scholar.google.com/citations?user=0z0fNxUAAAAJ&hl=en&oi=ao)
-    - Tübingen University & Amazon Scholar
-    - [Homepage](http://bethgelab.org)
-    - Representative Works:
-        - Deep gaze i: Boosting saliency prediction with feature maps trained on imagenet. 2014.
-    - 12921 citations
 
 - [Olivier Le Meur](https://scholar.google.com/citations?user=wl9Mj-8AAAAJ&hl=en)
     - Associate Professor, Univ Rennes, CNRS, IRISA, ESIR
