@@ -18,6 +18,13 @@ Collected by Ge-Peng Ji, Deng-Ping Fan.
     - [Homepage](http://www.alleninstitute.org/our-institute/our-team/profiles/christof-koch/)
     - 129013 citations
     
+ - [Alan Yuille](https://scholar.google.com/citations?user=FJ-huxgAAAAJ&hl=zh-CN&oi=sra)
+    - Professor of Cognitive Science and Computer Science, Johns Hopkins University
+    - [Homepage](http://www.cs.jhu.edu/~ayuille/)
+    - Representative Works:
+        - The secrets of salient object segmentation. CVPR 2014. (2020-12-29: 821 citations)
+    - 60349 citations   
+    
 - [Laurent Itti](https://scholar.google.com/citations?user=xhUvqK8AAAAJ&hl=en)
     - Professor of Computer Science, University of Southern California
     - Homepage: http://ilab.usc.edu/
